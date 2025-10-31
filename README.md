@@ -1,3 +1,3 @@
 # Portfolio site
 
-https://www.benscott.dev/
+My personal portfolio website
